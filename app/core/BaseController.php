@@ -5,6 +5,6 @@
  */
 class Controller {
     function render($name, $data= []) {
-        require_once ("app/views/{$name}.php");
+        require_once ("app/views/{$name}.html");
     }
 }
