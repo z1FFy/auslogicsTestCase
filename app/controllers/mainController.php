@@ -23,7 +23,6 @@ class MainController extends Controller
             3213,
             543543,
             228,
-            23132133,
             23132133
         ];
 
